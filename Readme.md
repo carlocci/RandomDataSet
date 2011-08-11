@@ -54,4 +54,4 @@ Just require rds.js
 -Should add more atoms
 
 ## LICENSE
-MIT license, see LICENSE
+MIT license, see license
